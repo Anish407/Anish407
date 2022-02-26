@@ -7,5 +7,5 @@
 - 👯  My Profile on <a href="https://stackblitz.com/@Anish407">StackBlitz <a>
 - 💬 Ask me about ... .Net, C#, Azure, Terraform.
 - 📫 How to reach me: Anish.arvind407@gmail.com
-- <img width="2" height="2" src="https://user-images.githubusercontent.com/51234038/155853354-a06e3e86-434b-4e99-9d8d-6d9976f24dc5.png"/>
+- <img width="20" height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpC5SLHGp8dyWwUVIuSz8eCcWl9eV3LnVrGw&usqp=CAU"/>  <a href="https://www.linkedin.com/in/anish-aravind-b29b6a49/">  Connect</a>
  
