@@ -1,4 +1,4 @@
-### Hi there 👋.  I am Anish Aravind. Certified c# , certified Azure Developer and someone who loves to learn and code. I find server side technologies very interesting Current focus is on Azure and .Net.
+### Hi there 👋.  I am Anish Aravind. Certified c# , certified Azure Developer and someone who loves to learn and code. I find server side technologies very interesting. Current focus is on Azure and .Net.
 
 <b> Anish _that_is_me = "C# , Net, AZURE, Devops, Terraform and a little bit of Angular";</b> </br>
 
