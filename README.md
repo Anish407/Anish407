@@ -1,8 +1,8 @@
-### Hi there 👋.  I am Anish Aravind. Certified c# , certified Azure Developer and someone who loves to learn and code. I find server side technologies very interesting. Currently focusssing on getting better at Azure and .Net.
+### Hi there 👋.  I am Anish Aravind. Certified c# , certified Azure Developer and someone who loves to learn and code. I find server side technologies very interesting. Currently focusssing on getting better at Azure, AWS and .Net.
 
 
 
-<code>Anish that_is_me = new Anish ( loves:"C# , Net, AZURE ", Knows: " Devops, BICEP, Terraform", CanHelpWith: "Angular");<strong></code>
+<code>Anish that_is_me = new Anish ( loves:"C# , Net, AZURE, AWS ", Knows: " Devops, BICEP, Terraform", CanHelpWith: "Angular");<strong></code>
 
 
 </div>
